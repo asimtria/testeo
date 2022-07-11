@@ -1,6 +1,6 @@
 [
   {"url":"001.wav","type":"audio","bank":"abc","n":0},
-  {"url":"002.wav","type":"audio","bank":"bdc","n":0},
+  {"url":"002.wav","type":"audio","bank":"bcd","n":0},
   {"url":"201.wav","type":"audio","bank":"cde","n":0},
   {"url":"202.wav","type":"audio","bank":"def","n":0},
   {"url":"203.wav","type":"audio","bank":"efg","n":0},
